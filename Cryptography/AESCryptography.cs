@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Security.Cryptography;
-using System.IO;
 using System.Diagnostics.Contracts;
+using System.IO;
+using System.Security.Cryptography;
 
 namespace jj.Cryptography
 {
